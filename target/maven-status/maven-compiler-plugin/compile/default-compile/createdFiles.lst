@@ -1,0 +1,12 @@
+br/com/angratech/micronaut/entity/$Book$IntrospectionRef.class
+br/com/angratech/micronaut/entity/Book.class
+br/com/angratech/micronaut/repository/BookRepository$Intercepted.class
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/br.com.angratech.micronaut.repository.$BookRepository$Intercepted$Definition$Reference
+br/com/angratech/micronaut/repository/BookRepository.class
+br/com/angratech/micronaut/entity/$Book$Introspection.class
+br/com/angratech/micronaut/Application.class
+br/com/angratech/micronaut/resource/BookResource.class
+br/com/angratech/micronaut/repository/$BookRepository$Intercepted$Definition.class
+br/com/angratech/micronaut/repository/$BookRepository$Intercepted$Definition$Reference.class
+br/com/angratech/micronaut/repository/$BookRepository$Intercepted$Definition$Exec.class
+META-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/br.com.angratech.micronaut.entity.$Book$IntrospectionRef
